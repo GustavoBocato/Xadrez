@@ -1,0 +1,24 @@
+Revisar todo o código:
+
+    Parece que a classe Peca está correta
+
+    Analisar classe tabuleiro
+
+        a partir do moverPeca
+
+
+Continuar testando as funções de movimento das pecas.
+
+    cavalo
+    
+
+Implementar check mate.
+
+    Dado um rei em check, verificar se não existe algum movimento tal que após ser realizado
+    o rei não está mais em check.
+
+    O rei não pode ficar em check por mais de um lance seguido, se ele está em check é porque
+    a ultima peca do oponente movida deixou ele em check.
+
+        Verificar se alguma peca da mesma cor do rei pode capiturar a peca que deixou o rei em check, sem deixar
+        o rei em check no final do movimento

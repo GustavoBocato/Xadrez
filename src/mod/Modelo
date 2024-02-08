@@ -1,0 +1,33 @@
+
+Tabuleiro:
+
+    ???? Precisamos de um objeto tabuleiro ou basta um array bidimensional ????
+
+Peca:
+
+    Classe abstrata
+    (não pode ser criado, porém pode se agrupar partes do código que se repete das
+     classes filhas)
+
+    Metodos abstratos:
+
+        consegueAlcancar(Posicao Inicial, Posicao Final)
+        (é o método que contém a regra pela qual cada peça se movimenta)
+
+    Classes filhas:
+
+        Peao
+        Cavalo
+        Bispo
+        Torre
+        Rainha
+        Rei
+
+
+
+
+
+
+
+
+

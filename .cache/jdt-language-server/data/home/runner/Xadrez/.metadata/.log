@@ -1,0 +1,639 @@
+!SESSION 2024-02-05 15:46:39.293 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.1
+java.vendor=GraalVM Community
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+Command-line arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -data /home/runner/Xadrez/.cache/jdt-language-server/data/home/runner/Xadrez
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:46:55.999
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:46:58.369
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:46:58.889
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:46:58.964
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:46:59.066
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:46:59.068
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:46:59.173
+!MESSAGE Wait for AutoBuildOffJob start
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:46:59.175
+!MESSAGE Wait for AutoBuildOffJob end 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:46:59.176
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:46:59.177
+!MESSAGE Started org.eclipse.m2e.core 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:46:59.179
+!MESSAGE ProjectRegistryRefreshJob finished 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:46:59.263
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:46:59.499
+!MESSAGE Started org.eclipse.buildship.core 235ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:06.874
+!MESSAGE LoadingGradleVersionJob finished 7374ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:07.245
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:07.368
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:08.075
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:16.575
+!MESSAGE Workspace initialized in 9682ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:16.870
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:16.980
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:21.670
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:24.177
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:25.167
+!MESSAGE begin problem for /Bispo.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:25.170
+!MESSAGE TODO Auto-generated method stub is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:25.170
+!MESSAGE 2 problems reported for /Bispo.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:25.175
+!MESSAGE Validated 1. Took 3494 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:25.182
+!MESSAGE Clearing problems for /Bispo.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:25.271
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:25.375
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:25.465
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:25.466
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:25.665
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:25.978
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:25.987
+!MESSAGE Clearing problems for /Cavalo.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:25.989
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:26.568
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:26.675
+!MESSAGE Clearing problems for /Peao.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:26.765
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:27.067
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:27.076
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:27.080
+!MESSAGE Clearing problems for /Rei.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:27.081
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:27.690
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:27.769
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:27.771
+!MESSAGE Clearing problems for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:27.774
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:27.880
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:27.977
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:27.995
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:27.998
+!MESSAGE Clearing problems for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:28.069
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:28.177
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:28.263
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:28.263
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:28.266
+!MESSAGE Clearing problems for /Cavalo.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:28.271
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:28.563
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:28.669
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:28.766
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:29.870
+!MESSAGE begin problem for /Peca.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:29.873
+!MESSAGE Illegal modifier for the interface field Peca.nome; only public, static & final are permitted is of type IllegalModifierForInterfaceField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:29.874
+!MESSAGE 2 problems reported for /Peca.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:29.875
+!MESSAGE Validated 1. Took 290 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:29.968
+!MESSAGE Clearing problems for /Peca.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:29.971
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:30.169
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:30.171
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:30.176
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:30.364
+!MESSAGE Clearing problems for /Rei.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:30.367
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:30.573
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:31.085
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:31.263
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:31.876
+!MESSAGE begin problem for /Tabuleiro.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:31.891
+!MESSAGE 1 problems reported for /Tabuleiro.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:31.896
+!MESSAGE Validated 1. Took 631 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:31.905
+!MESSAGE Clearing problems for /Tabuleiro.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:31.966
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:32.063
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:32.166
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:32.565
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:32.964
+!MESSAGE begin problem for /Torre.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:32.975
+!MESSAGE TODO Auto-generated method stub is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:32.976
+!MESSAGE 2 problems reported for /Torre.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:33.064
+!MESSAGE Validated 1. Took 489 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:33.088
+!MESSAGE Clearing problems for /Torre.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:33.089
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:33.267
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:33.272
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:33.273
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:33.376
+!MESSAGE Clearing problems for /Peca.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:33.379
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:33.566
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:33.875
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:33.964
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:33.968
+!MESSAGE Clearing problems for /Peao.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:34.067
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:34.271
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:34.274
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:34.666
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:34.673
+!MESSAGE Clearing problems for /Cavalo.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:34.764
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:34.902
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:34.963
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:36.372
+!MESSAGE begin problem for /Bispo.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:36.463
+!MESSAGE TODO Auto-generated method stub is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:36.464
+!MESSAGE 2 problems reported for /Bispo.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:36.465
+!MESSAGE Validated 1. Took 1160 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:57.803
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:57.864
+!MESSAGE Clearing problems for /Bispo.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:57.892
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:58.066
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:58.068
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:58.164
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:58.169
+!MESSAGE Clearing problems for /Cavalo.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:58.173
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:58.269
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:58.365
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:58.883
+!MESSAGE begin problem for /Peao.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:58.969
+!MESSAGE TODO Auto-generated method stub is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:58.971
+!MESSAGE 2 problems reported for /Peao.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:59.178
+!MESSAGE Validated 1. Took 413 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:59.506
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:59.579
+!MESSAGE Clearing problems for /Peao.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:59.665
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:59.763
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:47:59.805
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:00.466
+!MESSAGE begin problem for /Peca.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:00.467
+!MESSAGE Illegal modifier for the interface field Peca.nome; only public, static & final are permitted is of type IllegalModifierForInterfaceField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:00.468
+!MESSAGE 2 problems reported for /Peca.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:00.469
+!MESSAGE Validated 1. Took 87 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:00.564
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:00.567
+!MESSAGE Clearing problems for /Peca.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:00.569
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:00.685
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:00.764
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:01.263
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:01.267
+!MESSAGE begin problem for /Torre.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:01.269
+!MESSAGE TODO Auto-generated method stub is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:01.270
+!MESSAGE 2 problems reported for /Torre.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:01.363
+!MESSAGE Validated 1. Took 277 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:01.365
+!MESSAGE Clearing problems for /Torre.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:01.367
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:01.530
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:01.564
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:01.864
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:01.867
+!MESSAGE Clearing problems for /Tabuleiro.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:01.986
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:02.169
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:02.266
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:02.764
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:02.969
+!MESSAGE begin problem for /Rei.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:02.976
+!MESSAGE TODO Auto-generated method stub is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:02.979
+!MESSAGE 2 problems reported for /Rei.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:02.981
+!MESSAGE Validated 1. Took 316 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:02.989
+!MESSAGE Clearing problems for /Rei.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:02.993
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:03.072
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:03.163
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:03.464
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:03.465
+!MESSAGE Clearing problems for /Peca.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:03.484
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:03.663
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:03.686
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:04.183
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:04.274
+!MESSAGE begin problem for /Cavalo.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:04.276
+!MESSAGE TODO Auto-generated method stub is of type Task
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:04.277
+!MESSAGE 2 problems reported for /Cavalo.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:04.278
+!MESSAGE Validated 1. Took 100 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:04.288
+!MESSAGE Clearing problems for /Cavalo.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:04.303
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:04.375
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:04.439
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:04.865
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:04.978
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:05.070
+!MESSAGE 1 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:05.072
+!MESSAGE Validated 1. Took 207 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:05.079
+!MESSAGE Clearing problems for /Main.java
+!SESSION 2024-02-05 15:48:21.241 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.1
+java.vendor=GraalVM Community
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+Command-line arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -data /home/runner/Xadrez/.cache/jdt-language-server/data/home/runner/Xadrez
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-02-05 15:48:29.084
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:32.080
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:35.167
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:35.673
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:35.677
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:35.765
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:35.783
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:35.884
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:35.893
+!MESSAGE Started org.eclipse.m2e.core 14ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:35.969
+!MESSAGE ProjectRegistryRefreshJob finished 65ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:35.970
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:36.274
+!MESSAGE Started org.eclipse.buildship.core 304ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:36.389
+!MESSAGE LoadingGradleVersionJob finished 110ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:48:37.866
+!MESSAGE >> initialized
+!SESSION 2024-02-05 15:49:06.239 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.1
+java.vendor=GraalVM Community
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+Command-line arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -data /home/runner/Xadrez/.cache/jdt-language-server/data/home/runner/Xadrez
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-02-05 15:49:11.784
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:49:14.031
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:49:15.426
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:49:15.715
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:49:15.717
+!MESSAGE Initializing Java Language Server 1.9.0.202203031534
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:49:15.822
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:49:15.823
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:49:15.920
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:49:15.938
+!MESSAGE Started org.eclipse.m2e.core 19ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:49:15.950
+!MESSAGE ProjectRegistryRefreshJob finished 6ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:49:15.955
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:49:16.126
+!MESSAGE Started org.eclipse.buildship.core 170ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:49:16.426
+!MESSAGE LoadingGradleVersionJob finished 299ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-02-05 15:49:16.814
+!MESSAGE >> initialized

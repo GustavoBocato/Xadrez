@@ -1,0 +1,5 @@
+Se o rei for se mover para a frente de um peão então dá
+movimento ilegal.
+
+Se o jogador entrar coordenadas fora do tabuleiro dá erro, mas não há
+execção.
